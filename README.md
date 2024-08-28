@@ -1,2 +1,3 @@
-# os242
-os242
+# os242 : cleoexcel
+
+[LOG](TXT/mt.log.txt) -- [GitHub](https://github.com/cleoexcel/os242)
