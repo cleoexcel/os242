@@ -6,3 +6,7 @@
 ZCZC W00 100 L02 OS Class
 ZCZC W00 3 L03 GitHub repo set up
 ZCZC W00 3 L04 Set up Github Pages
+ZCZC W00 45 L82 Reading Book (online)
+ZCZC W00 100 L02 OS Meeting Class
+ZCZC W00 100 L70 Studying for other courses.
+ZCZC W00 10 L81 Listening to music (Bernadya's songs).
