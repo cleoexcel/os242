@@ -12,3 +12,7 @@ ZCZC W00 100 L70 Studying for other courses.
 ZCZC W00 10 L81 Listening to music (Bernadya's songs).
 ZCZC W01 100 L02 OS Meeting Class 
 ZCZC W01 60 L88 Billiard with my friend<3
+ZCZC W02 100 L02 OS monday meeting class
+ZCZC W02 100 L02 OS Wednesday meeting class
+ZCZC W02 120 L70 Studying for PBP
+ZCZC WO2 50 L64 Helping a friend (OS related problem)
