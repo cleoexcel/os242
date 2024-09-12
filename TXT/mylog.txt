@@ -1,7 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode : https: //osp4diss.vlsm.org/ETC/logcodes.txt
-
+# LogCode : https://doit.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 100 L02 OS Class
 ZCZC W00 3 L03 GitHub repo set up
@@ -19,3 +18,5 @@ ZCZC W02 50 L64 Helping a friend (OS related problem)
 ZCZC W02 45 L88 Yoga with my mom
 ZCZC W02 120 L70 Studying StatProb
 ZCZC W02 90 L01 Discord related 
+ZCZC W02 80 L70 Studying for DSA
+ZCZC W02 110 L82 Reading Book
