@@ -15,4 +15,7 @@ ZCZC W01 60 L88 Billiard with my friend<3
 ZCZC W02 100 L02 OS monday meeting class
 ZCZC W02 100 L02 OS Wednesday meeting class
 ZCZC W02 120 L70 Studying for PBP
-ZCZC WO2 50 L64 Helping a friend (OS related problem)
+ZCZC W02 50 L64 Helping a friend (OS related problem)
+ZCZC W02 45 L88 Yoga with my mom
+ZCZC W02 120 L70 Studying StatProb
+ZCZC W02 90 L01 Discord related 
