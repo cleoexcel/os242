@@ -33,3 +33,6 @@ The given short youtube video provides a tutorial on how to make a simple "Makef
 
 10. [Makefiles: 95% of what you need to know](https://www.youtube.com/watch?v=DtGrdB8wQ_8)<br>
 The given short youtube video explains more in-depth on "Makefile"
+
+11. [How does KERNEL memory allocation work?](https://www.youtube.com/watch?v=NC_qkXznvkg) <br>
+The given youtube video describes memory allocation in kernel
