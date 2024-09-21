@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-
+## [HOME](../)
 # LINKS
 
 1. [Operating System Concepts](https://www.os-book.com/OS10/slide-dir/)<br>
@@ -36,3 +36,14 @@ The given short youtube video explains more in-depth on "Makefile"
 
 11. [How does KERNEL memory allocation work?](https://www.youtube.com/watch?v=NC_qkXznvkg) <br>
 The given youtube video describes memory allocation in kernel
+
+12. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html) <br>
+The given article describes Memory Allocation in C in a detailed way.
+
+13. [Vim Cheat Sheets](https://vim.rtorr.com/) <br>
+The given link provied vim cheatsheet which may be helpful for Operating System.
+
+14. [Linux Partitioning: A Comprehensive Guide](https://harsh05.medium.com/linux-partitioning-a-comprehensive-guide-64b8618cb3f3#:~:text=Disk%20Partitioning%20is%20the%20process,partitions%20in%20the%20partition%20table.) <br>
+  This article is has a full explanation about Linux Partitioning, quite a long read but worth all the time spent.
+
+Last Rev: Fri 21 Sep 2024 18:46
