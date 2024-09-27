@@ -26,3 +26,10 @@ ZCZC W03 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 60 L64 Helping a friend (OS related problem)
 ZCZC W03 100 L02 OS Meeting Class
 ZCZC W03 90 L05 studying Quiz for OS
+ZCZC W04 307 L09 Assignment in General
+ZCZC W04 23 L08 OS Chat related via Line group with friends
+ZCZC W04 100 L05 studying Quiz for OS
+ZCZC W04 150 L80 Watching : Operating System material video on youtube
+ZCZC W04 42 L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 47 L60 Backup Desktop or Laptop.
+ZCZC W04 100 L02 OS Wednesday meeting class.

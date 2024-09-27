@@ -46,4 +46,10 @@ The given link provied vim cheatsheet which may be helpful for Operating System.
 14. [Linux Partitioning: A Comprehensive Guide](https://harsh05.medium.com/linux-partitioning-a-comprehensive-guide-64b8618cb3f3#:~:text=Disk%20Partitioning%20is%20the%20process,partitions%20in%20the%20partition%20table.) <br>
   This article is has a full explanation about Linux Partitioning, quite a long read but worth all the time spent.
 
+15. [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=kh_yYsj057LV4vv0) <br>
+ This youtube video contains the important information about Linux. This video is great for students who are just starting out with Linux.
+
+16. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+This article discusses the fundamental concepts related to operating system processes. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
+ 
 Last Rev: Fri 21 Sep 2024 18:46
