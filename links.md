@@ -51,5 +51,14 @@ The given link provied vim cheatsheet which may be helpful for Operating System.
 
 16. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 This article discusses the fundamental concepts related to operating system processes. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
- 
-Last Rev: Fri 21 Sep 2024 18:46
+
+17. [Thrashing]](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
+This website is an explanation about thrasing
+
+18. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+This website is an explanation about page replacement
+
+19. [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)<br>
+This website is an explanation about the different between UMA and NUMA
+
+Last Rev: Mon 07 Oct 2024 13:54
