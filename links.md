@@ -61,4 +61,14 @@ This website is an explanation about page replacement
 19. [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)<br>
 This website is an explanation about the different between UMA and NUMA
 
-Last Rev: Mon 07 Oct 2024 13:54
+20. [CyberSecurity Video](https://youtu.be/U_P23SqJaDc?si=S1qs5ghj9-7kp2UG)<br>
+This video is about the basics of cybersecurity in a simple and very understandable manner
+
+21. [REGEX Practice](https://regexone.com/)<br>
+This website is about  practicing REGEX for beginners
+
+22. [Bash Guide PDF](https://tldp.org/LDP/abs/abs-guide.pdf)<br>
+This PDF is good for learning about BASH
+
+
+Last Rev: Mon 28 Oct 2024 16:03

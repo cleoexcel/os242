@@ -45,3 +45,10 @@ ZCZC W05 43 L61 Backup Virtual Box
 ZCZC W05 30 L42 TXT/mypubkey.txt related
 ZCZC W05 320 L09 Assignment in General
 ZCZC W05 45 L29 OS Shoping related: buy a flashdisk
+ZCZC W06 90 L05 Quiz related including studying
+ZCZC W06 30 L08 OS Chat related by Line with Friends
+ZCZC W06 60 L64 Helping a friend (OS related problem)
+ZCZC W06 110 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 120 L32 YouTube: watching OS related topics.
+ZCZC W06 100 L02 OS meeting class
+ZCZC W06 340 L09 Assignment in General
