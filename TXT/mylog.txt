@@ -52,3 +52,14 @@ ZCZC W06 110 L43 TXT/myrank.tex related, including peer review.
 ZCZC W06 120 L32 YouTube: watching OS related topics.
 ZCZC W06 100 L02 OS meeting class
 ZCZC W06 340 L09 Assignment in General
+ZCZC W07 100 L02 OS monday meeting class
+ZCZC W07 100 L02 OS Wednesday meeting class
+ZCZC W07 30 L08 OS Chat related (LINE) with Friend
+ZCZC W07 5 L08 OS Chat related (LINE) with Asdos
+ZCZC W07 130 L05 Quiz OS  related including studying
+ZCZC W07 58 L32 YouTube: watching OS related topics
+ZCZC W07 45 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 50 L64 Helping a friend (OS related problem)
+ZCZC W07 43 L61 Backup Virtual Box
+ZCZC W07 30 L42 TXT/mypubkey.txt related
+ZCZC W07 320 L09 Assignment in General

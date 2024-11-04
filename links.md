@@ -52,7 +52,7 @@ The given link provied vim cheatsheet which may be helpful for Operating System.
 16. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 This article discusses the fundamental concepts related to operating system processes. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
 
-17. [Thrashing]](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
+17. [Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
 This website is an explanation about thrasing
 
 18. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
@@ -70,5 +70,11 @@ This website is about  practicing REGEX for beginners
 22. [Bash Guide PDF](https://tldp.org/LDP/abs/abs-guide.pdf)<br>
 This PDF is good for learning about BASH
 
+23. [Cyber Security Course for Beginner](https://youtu.be/U_P23SqJaDc?si=xRSWgV7YOIDSbQLT)<br>
+This video is a guide to understanding cybersecurity and provides valuable insights for everyone
 
-Last Rev: Mon 28 Oct 2024 16:03
+24. [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)<br>
+This website is a guide on disk partitioning in Linux.
+
+
+Last Rev: Mon 4 Nov 2024 13:54
