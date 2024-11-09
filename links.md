@@ -76,5 +76,10 @@ This video is a guide to understanding cybersecurity and provides valuable insig
 24. [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)<br>
 This website is a guide on disk partitioning in Linux.
 
+25. [Creating new processes with fork()!](https://youtu.be/ss1-REMJ9GA?si=KP-0zWE1SopTCGsX)<br>
+This video is explaining how new processes are created using the fork() command
 
-Last Rev: Mon 4 Nov 2024 13:54
+26. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+This article is about a concept of semaphores in process synchronization and their role in managing access to shared resources in operating systems.
+
+Last Rev: Mon 6 Nov 2024 16:12

@@ -63,3 +63,10 @@ ZCZC W07 50 L64 Helping a friend (OS related problem)
 ZCZC W07 43 L61 Backup Virtual Box
 ZCZC W07 30 L42 TXT/mypubkey.txt related
 ZCZC W07 320 L09 Assignment in General
+ZCZC W08 512 L09 Assignment in General
+ZCZC W08 41 L08 OS Chat related via Line group with friends
+ZCZC W08 100 L05 studying Quiz for OS
+ZCZC W08 150 L80 Watching : Operating System material (Creating new processes with fork()) video
+ZCZC W08 45 L43 TXT/myrank.txt related, including peer review.
+ZCZC W08 50 L60 Backup Desktop or Laptop.
+ZCZC W08 100 L02 OS Wednesday meeting class.
