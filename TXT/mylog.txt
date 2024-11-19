@@ -70,3 +70,14 @@ ZCZC W08 150 L80 Watching : Operating System material (Creating new processes wi
 ZCZC W08 45 L43 TXT/myrank.txt related, including peer review.
 ZCZC W08 50 L60 Backup Desktop or Laptop.
 ZCZC W08 100 L02 OS Wednesday meeting class.
+ZCZC W09 100 L02 OS monday meeting class
+ZCZC W09 100 L02 OS Wednesday meeting class
+ZCZC W09 30 L08 OS Chat related (LINE) with Friend
+ZCZC W09 5 L08 OS Chat related (LINE) with Asdos
+ZCZC W09 130 L05 Quiz OS  related including studying
+ZCZC W09 58 L32 YouTube: watching OS related topics
+ZCZC W09 45 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 50 L64 Helping a friend (OS related problem)
+ZCZC W09 43 L61 Backup Virtual Box
+ZCZC W09 30 L42 TXT/mypubkey.txt related
+ZCZC W09 320 L09 Assignment in General
